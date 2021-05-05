@@ -1,3 +1,4 @@
+//Application of binary search 
 #include <iostream>
 #include<bits/stdc++.h>
  
